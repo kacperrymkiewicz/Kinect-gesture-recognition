@@ -1,0 +1,10 @@
+c:\users\siec\documents\visual studio 2010\Projects\kinect2\kinect2\bin\Debug\kinect2.exe
+c:\users\siec\documents\visual studio 2010\Projects\kinect2\kinect2\bin\Debug\kinect2.pdb
+c:\users\siec\documents\visual studio 2010\Projects\kinect2\kinect2\obj\x86\Debug\kinect2.exe
+c:\users\siec\documents\visual studio 2010\Projects\kinect2\kinect2\obj\x86\Debug\kinect2.pdb
+c:\users\siec\documents\visual studio 2010\Projects\kinect2\kinect2\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+c:\users\siec\documents\visual studio 2010\Projects\kinect2\kinect2\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+c:\users\siec\documents\visual studio 2010\Projects\kinect2\kinect2\bin\Debug\Microsoft.Kinect.Toolkit.dll
+c:\users\siec\documents\visual studio 2010\Projects\kinect2\kinect2\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+c:\users\siec\documents\visual studio 2010\Projects\kinect2\kinect2\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+c:\users\siec\documents\visual studio 2010\Projects\kinect2\kinect2\obj\x86\Debug\kinect2.csprojResolveAssemblyReference.cache
